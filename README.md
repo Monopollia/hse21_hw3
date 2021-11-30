@@ -1,5 +1,4 @@
 # hse21_hw3
-# hse21_hw3
 
 *Ссылка на GoogleColab:* https://colab.research.google.com/drive/1IUWG0rQL1z1a5yw0DftU-BkoL5JiDZZJ#scrollTo=qMpPGqa8Shzv
 
