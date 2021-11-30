@@ -13,7 +13,7 @@ SRR3414635 | контроль	| 20 956 475	| 20 395 865 (97.32 %) |	18 428 317 (
 SRR3414636 | контроль |	20 307 147 |	19 757 059 (97.29 %) |	17 825 380 (87.78 %) |	15 757 580 (77.60 %)
 SRR3414637 | контроль	| 20 385 570	| 19 847 291 (97.36 %) |	17 844 858 (87.54 %) |	15 736 978 (77.20 %)
 
-### Статистика из MultiQC
+### Статистика из MultiQC (файлы в папке 'graphics')
 ![image](https://user-images.githubusercontent.com/61352475/144046743-55676671-81f8-4fcd-aa83-42916f8749bf.png)
 ![image](https://user-images.githubusercontent.com/61352475/144046813-7077ce7a-c9c0-412b-8621-b85c2f7720f7.png)
 ![image](https://user-images.githubusercontent.com/61352475/144046851-129a4840-2088-4efd-ac7c-64c66f28a72d.png)
